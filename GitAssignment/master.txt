@@ -1,1 +1,2 @@
 This is master.txt
+Adding new line in master.txt
